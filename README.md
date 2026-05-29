@@ -1,4 +1,4 @@
-# Guizang PPT Skill · 网页 PPT / 配图 / 封面
+# PPT Skill · 网页 PPT / 配图 / 封面
 
 ![GitHub stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square)
 ![License](https://img.shields.io/github/license/op7418/guizang-ppt-skill?style=flat-square)
@@ -334,5 +334,3 @@ Bug、排版问题、新布局需求——欢迎开 Issue 或 PR。改动请优�
 - 新主题色进 `themes.md` 并给出适合的场景
 
 ## License
-
-AGPL-3.0 © 2026 [op7418](https://github.com/op7418)
